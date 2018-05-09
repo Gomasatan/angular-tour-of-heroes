@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
-        "target": "ES5",
-        "experimentalDecorators": true
-
+         "target": "es6",
+        "experimentalDecorators": true,
+        "moduleResolution":"node"
        }
    
 }
